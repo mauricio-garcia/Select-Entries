@@ -1,0 +1,25 @@
+﻿NTX All,NTX acM,NTX ClearScada,ETX All,ETX acM,ETX ClearScada,TexOk All ,TexOk acM ,TexOk ClearSCADA ,Primary ClearSCADA ,Primary acM,All acM Servers,All ClearSCADA Servers,All Servers
+Aus1sNTXac01,Aus1sNTXac01,Aus1sNTXcs02,Aus1sETXac01,Aus1sETXac01,Aus1sETXac02,Aus1sTXOac01,Aus1sTXOac01,Aus1sTXOcs02,Hou1sETXcs01,Hou1sETXac01,Aus1sNTXac01,Aus1sETXac02,Aus1sETXac01
+Hou1sNTXac01,Hou1sNTXac01,Aus1sNTXcs03,Hou1sETXac01,Hou1sETXac01,Aus1sETXac03,Hou1sTXOac01,Hou1sTXOac01,Aus1sTXOcs03,Hou1sNTXcs01,Hou1sNTXac01,Aus1sTXOac01,Aus1sETXac03,Aus1sETXac02
+Aus1sNTXcs02,,Hou1sNTXcs01,Aus1sETXac02,,Hou1sETXcs01,Aus1sTXOcs02,,Hou1sTXOcs01,Hou1sTXOcs01,Hou1sTXOac01,Aus1sETXac01,Aus1sNTXcs02,Aus1sETXac03
+Aus1sNTXcs03,,Hou1sNTXcs02,Aus1sETXac03,,Hou1sETXcs02,Aus1sTXOcs03,,Hou1sTXOcs02,,,Hou1sETXac01,Aus1sNTXcs03,Aus1sNTXac01
+Hou1sNTXcs01,,Hou1sNTXcs03,Hou1sETXcs01,,Hou1sETXcs03,Hou1sTXOcs01,,Hou1sTXOcs03,,,Hou1sNTXac01,Aus1sTXOcs02,Aus1sNTXcs02
+Hou1sNTXcs02,,Hou1sNTXcs04,Hou1sETXcs02,,Hou1sETXcs04,Hou1sTXOcs02,,Hou1sTXOcs04,,,Hou1sTXOac01,Aus1sTXOcs03,Aus1sNTXcs03
+Hou1sNTXcs03,,,Hou1sETXcs03,,,Hou1sTXOcs03,,,,,,Hou1sETXcs01,Aus1sTXOac01
+Hou1sNTXcs04,,,Hou1sETXcs04,,,Hou1sTXOcs04,,,,,,Hou1sETXcs02,Aus1sTXOcs02
+,,,,,,,,,,,,Hou1sETXcs03,Aus1sTXOcs03
+,,,,,,,,,,,,Hou1sETXcs04,Hou1sETXac01
+,,,,,,,,,,,,Hou1sNTXcs01,Hou1sETXcs01
+,,,,,,,,,,,,Hou1sNTXcs02,Hou1sETXcs02
+,,,,,,,,,,,,Hou1sNTXcs03,Hou1sETXcs03
+,,,,,,,,,,,,Hou1sNTXcs04,Hou1sETXcs04
+,,,,,,,,,,,,Hou1sTXOcs01,Hou1sNTXac01
+,,,,,,,,,,,,Hou1sTXOcs02,Hou1sNTXcs01
+,,,,,,,,,,,,Hou1sTXOcs03,Hou1sNTXcs02
+,,,,,,,,,,,,Hou1sTXOcs04,Hou1sNTXcs03
+,,,,,,,,,,,,,Hou1sNTXcs04
+,,,,,,,,,,,,,Hou1sTXOac01
+,,,,,,,,,,,,,Hou1sTXOcs01
+,,,,,,,,,,,,,Hou1sTXOcs02
+,,,,,,,,,,,,,Hou1sTXOcs03
+,,,,,,,,,,,,,Hou1sTXOcs04
